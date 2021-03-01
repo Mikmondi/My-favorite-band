@@ -31,15 +31,3 @@ h2{
 p{
     color: rgb(154, 154, 184);
 }
-a:link{
-    background-color: chocolate;
-}
-a:hover{
-    color: pink;
-    background-color: saddlebrown;
-    text-decoration-line: none;
-}
-a:visited{
-    color: seagreen;
-    background-color: slateblue;
-}
