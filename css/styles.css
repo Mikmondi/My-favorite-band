@@ -23,7 +23,7 @@ h2{
     text-shadow: dimgray;
 }
 .article{
-    border: 3px inset blue;
+    border: 3px inset rgb(150, 150, 240);
     padding: 10px;
     margin: 5px;
     background-color: lightsteelblue;
