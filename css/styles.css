@@ -1,5 +1,6 @@
 h1 {
-    color: blue;
+    color: darkred;
+    text-align: center;
   }
   body{
       background-color: darkslategrey;
@@ -7,4 +8,20 @@ h1 {
   }
   div{
       background-color: lightskyblue;
+      align-items: center;
+      padding: 20px;
+      border: 8px inset darkslateblue;
   }
+img{
+    align-items: center;
+}
+h2{
+    text-align: center;
+    text-shadow: dimgray;
+}
+.article{
+    border: 3px inset blue;
+    padding: 10px;
+    margin: 5px;
+    background-color: lightsteelblue;
+}
