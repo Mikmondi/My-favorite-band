@@ -1,6 +1,8 @@
 h1 {
     color: darkred;
     text-align: center;
+    font-style: italic;
+    font-size: xx-large;
   }
   body{
       background-color: darkslategrey;
