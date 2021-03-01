@@ -11,6 +11,7 @@ h1 {
       align-items: center;
       padding: 20px;
       border: 8px inset darkslateblue;
+      image-resolution: 200px;
   }
 img{
     align-items: center;
